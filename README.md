@@ -59,6 +59,3 @@ Final score = average of both.
 ### Prerequisites
 - Ollama installed and running
 - Python 3.9+
-- NVIDIA GPU recommended (runs on CPU but slower)
-
-### Step 1 — Pull the models
